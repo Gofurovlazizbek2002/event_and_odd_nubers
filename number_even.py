@@ -8,7 +8,9 @@
 #"var_int" o'zgaruvchisini yarating va unga to'rt xonali butun son qiymatini belgilang.
 
 #"var_int" o'zgaruvchisidagi juft raqamlar sonini chop eting.
-x=1397
+var_int=1397
+x = var_int
+
 x4 = x % 10
 x = x // 10
 
